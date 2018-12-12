@@ -1,0 +1,67 @@
+status:
+    name: "ゴリラ"
+    age: 26
+    species: "霊長目ヒト科ゴリラ属"
+    sex: "オス"
+sns:
+    - name: "Twitter"
+      id: "gorilla0513"
+      url: "https://twitter.com/gorilla0513"
+    - name: "Github"
+      url: "https://github.com/skanehira"
+    - name: "Qiita"
+      id: "gorilla0513"
+      url: "https://qiita.com/gorilla0513"
+job_history: 
+    - name: "CE"
+      experience: "2year"
+    - name : "Tester"
+      experience: "2year"
+    - name: "Dev"
+      experience: "3year"
+dev:
+    language:
+        - name: "Java"
+          experience: "1year"
+        - name: "PHP"
+          experience: "1year"
+        - name: "Go"
+          experience: "1year"
+        - name: "JavaScript"
+          experience: "1year"
+    os:
+        - "Windows(7,8,10)"
+        - "Linux(CentOS,RedHat)"
+        - "Unix(AIX,HP-UX,etc...)"
+        - "MacOS"
+    db:
+        - "MySQL"
+        - "Postgresql"
+        - "Oracle"
+    framework:
+        - "vue.js"
+        - "ElementUI"
+        - "Echo"
+        - "GORM"
+        - "Spring"
+        - "CakePHP"
+    tool:
+        editor:
+            - "Vim"
+            - "Visual Studio Code"
+            - "Goland"
+        terminal:
+            - "iterm2"
+            - "Alacritty"
+            - "TeraTerm"
+            - "Rlgin"
+        version_control:
+            - "Git"
+            - "svn"
+        browser:
+            - "Vivaldi"
+            - "Chrome"
+        cd:
+            - "docker" 
+        other:
+            - "Virtual Box" 
